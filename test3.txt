@@ -1,0 +1,6 @@
+FILE 3 - line 1
+FILE 3 - line 2
+FILE 3 - line 3
+FILE 3 - line 4
+FILE 3 - line 5
+FILE 3 - line 6
