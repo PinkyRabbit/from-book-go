@@ -1,4 +1,4 @@
-package main
+package f1_3
 
 import (
 	"os"
